@@ -1,28 +1,31 @@
-### Hi there 👋
-My name is Rifqi Ramadhan and i'm Fullstack Developer, i'm from Indonesia, and currently working at PT Enigma Cipta Humanika. 
-You can find me on \[!\[Instagram\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
+<p>
+  <h1 align="center"><b>Hi there, I'm Rifqi Ramadhan</h1>
+</p>
+<p align="center">
+<a href="https://instagram.com/rifqyram"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://linkedin.com/in/rifqyram"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram" /></a>&nbsp;
+</p>
+<br />
 
-<!-- Icons -->
+<p align="center">Enthusiastic selftaught fullstack developer since 2020 using Java, ReactJS, Angular, Kotlin.</p>
 
-[1.2]: http://assets.stickpng.com/images/5ecec78673e4440004f09e77.png
-[2.2]: https://cdn-icons-png.flaticon.com/512/61/61109.png
+<br />
 
-<!-- Links to your social media accounts -->
-
-[1]: https://instagram.com/rifqyram
-[2]: https://www.linkedin.com/in/rifqyram/
-
-<!--
-**rifqyram/rifqyram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Languages and Tools</h3>
+</p>
+<br />
+<p align="center">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+<img alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
+<img alt="Java" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img alt="Spring Boot" width="80px" src="https://miro.medium.com/max/700/1*-uckV8DOh3l0bCvqZ73zYg.png" />
+<img alt="Kotlin" width="50px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" />
+<img alt="Android" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" />
+<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="Intellij Idea" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
+<img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+</p>
