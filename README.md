@@ -57,7 +57,7 @@ height="40"/>
 </a>
   
 <a href="https://www.jetbrains.com/idea/" target="_blank">
-<img alt="Intellij Idea" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px IntelliJ_IDEA_Icon.svg.png" />
+<img alt="Intellij Idea" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 </a>
   
 <a href="https://github.com/rifqyram" target="_blank">
